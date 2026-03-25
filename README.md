@@ -36,18 +36,16 @@ This project simulates a **real-world Linux audit environment** by combining aut
 ---
 ## ⚡ Installation
 
-'''bash
 git clone https://github.com/your-username/oss-audit-24BCY10127
 cd oss-audit-24BCY10127
 chmod +x *.sh
 
 ## ▶️ Run the Toolkit
 
-'''bash
 ./main.sh 
 
 ## 🖥️ Interface Preview
-'''bash
+
 ==============================
    OPEN SOURCE AUDIT TOOL
 ==============================
